@@ -1,0 +1,17 @@
+{
+    "home.title": "Homepage",
+
+    "error.internal.title": "An error has occurred",
+    "error.not-found.title": "Page not found",
+    "error.return-to-home": "Return to home",
+
+    "contacts.title": "Contacts",
+    "contacts.name": "Name: { name }",
+    "contacts.email": "Email: { email }",
+
+    "terms.title": "Terms and Conditions",
+
+    "cookieBanner.text": "We use cookies to personalize content and to collect analytics to improve our website. Please review our <link>terms and conditions</link> for more information.",
+    "cookieBanner.accept": "Accept",
+    "cookieBanner.reject": "Reject"
+}
